@@ -49,12 +49,6 @@ curl -i http://localhost:5106/test/3
 
 ```http request
 HTTP/1.1 500 Internal Server Error
-Content-Type: application/problem+json; charset=utf-8
-Date: Thu, 27 Jan 2022 07:55:05 GMT
-Server: Kestrel
-Transfer-Encoding: chunked
-
-HTTP/1.1 500 Internal Server Error
 Content-Type: application/json; charset=utf-8
 Date: Thu, 27 Jan 2022 08:50:00 GMT
 Server: Kestrel
